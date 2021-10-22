@@ -1,5 +1,5 @@
 # React Hooks Esencial
-Este es el repositorio del curso de LinkedIn Learning [React Hooks esencial]. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning [nombre del curso]. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
