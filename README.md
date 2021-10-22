@@ -27,5 +27,5 @@ Echa un vistazo a mis otros cursos en https://www.linkedin.com/learning/instruct
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
 [lil-course-url]: https://www.linkedin.com/learning/react-hooks-esencial/descubriendo-las-posibilidades-de-react-hooks?autoAdvance=true&autoSkip=false&autoplay=true&resume=false&u=104
-[lil-thumbnail-url]: http://
+[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQHgwPQjGQ0T6w/learning-public-crop_675_1200/0/1633940820650?e=1634990400&v=beta&t=xuEZd6NfSFFI-k3rDEy9BWm3APt0TPqw5vBqqBw5y_I
 
