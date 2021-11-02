@@ -23,6 +23,7 @@ Las ramas están estructuradas para corresponder a los vídeos del curso. La con
 Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente: 
 
 [nodejs]
+
 Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
 
 [Instrucciones específicas del curso].
