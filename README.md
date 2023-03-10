@@ -1,12 +1,10 @@
 # React Hooks Esencial
 
-Este es el repositorio del curso de LinkedIn Learning [React Hooks Esencial]. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
+Este es el repositorio del curso de LinkedIn Learning `React Hooks Esencial`. El curso completo está disponible en [LinkedIn Learning][lil-course-url].
 
 ![Nombre completo del curso][lil-thumbnail-url] 
 
 Consulta el archivo Readme en la rama main para obtener instrucciones e información actualizadas.
-
-DESCRIPCIÓN DEL CURSO
 
 Aprende a utilizar React Hooks, la nueva característica introducida en la versión 16.8 de React. Esta te permitirá utilizar el estado y otras características de React sin escribir una clase, y durante este contenido aprenderás sobre su configuracion, patrones, técnicas y casos comunes de uso para utilizar React Hooks. Se requieren conocimientos básicos de React para seguir el curso, pero al terminar habrás expandido tus posibilidades de desarrollo gracias a las mejoras de productividad que experimentarás gracias a React Hooks.
 
@@ -26,7 +24,7 @@ Para utilizar estos archivos de ejercicios, debes tener descargado lo siguiente:
 
 Clona este repositorio en tu máquina local usando la Terminal (macOS) o CMD (Windows), o una herramienta GUI como SourceTree.
 
-[Instrucciones específicas del curso].
+### Instrucciones específicas del curso
 Docente
 Carlos Solís
 
@@ -34,5 +32,5 @@ Echa un vistazo a mis otros cursos en [LinkedIn Learning](https://www.linkedin.c
 
 [0]: # (Replace these placeholder URLs with actual course URLs)
 
-[lil-course-url]: https://www.linkedin.com/learning/react-hooks-esencial/descubriendo-las-posibilidades-de-react-hooks
-[lil-thumbnail-url]: https://media-exp1.licdn.com/dms/image/C4E0DAQHgwPQjGQ0T6w/learning-public-crop_675_1200/0/1633940820650?e=1646956800&v=beta&t=2jOCd9izHS8D963ANOfKpaAm0AekT5kLgBhUcvcwL6Y
+[lil-course-url]: https://www.linkedin.com/learning/react-hooks-esencial
+[lil-thumbnail-url]: https://cdn.lynda.com/course/2872003/2872003-1633940796968-16x9.jpg
